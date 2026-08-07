@@ -2,8 +2,8 @@
   "sourceReadme": "README.md",
   "targets": [
     {
-      "language": "en",
-      "path": "README_en.md"
+      "language": "zh-CN",
+      "path": "README_zh-CN.md"
     },
     {
       "language": "ja",
